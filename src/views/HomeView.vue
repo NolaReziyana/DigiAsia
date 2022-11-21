@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import Card from "@/components/Card.vue";
+import CardList from "@/components/CardList.vue";
 import Description from "@/components/Description.vue";
 import NavbarVue from "@/components/Navbar.vue";
 </script>
@@ -11,6 +12,7 @@ import NavbarVue from "@/components/Navbar.vue";
       <img src="@/assets/images/gambar.png" alt="image" class="w-full h-200px"/>
       <Description />
       <Card />
+      <CardList />
     </div>
   </main>
 </template>
