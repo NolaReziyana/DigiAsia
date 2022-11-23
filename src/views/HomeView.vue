@@ -2,6 +2,7 @@
 import CardBuild from "@/components/CardBuild.vue";
 import CardList from "@/components/CardList.vue";
 import DescriptionSection from "@/components/DescriptionSection.vue";
+import FooterSection from "@/components/FooterSection.vue";
 import LicensesSection from "@/components/LicensesSection.vue";
 import NavbarSection from "@/components/NavbarSection.vue";
 </script>
@@ -14,6 +15,7 @@ import NavbarSection from "@/components/NavbarSection.vue";
       <CardBuild />
       <CardList />
       <LicensesSection />
+      <FooterSection />
     </div>
   </main>
 </template>

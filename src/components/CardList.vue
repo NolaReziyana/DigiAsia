@@ -298,7 +298,7 @@
         </div>
       </div>
     </div>
-    <div class="card w-[250px] bg-red-100 shadow-xl ml-2 mt-6">
+    <div class="card w-[250px] bg-red-50 shadow-xl ml-2 mt-6">
       <figure>
         <img
           src="@/assets/images/Foto/Foto 10.png"
@@ -326,7 +326,7 @@
         </div>
       </div>
     </div>
-    <div class="card w-[250px] bg-base-100 shadow-xl ml-2 mt-6">
+    <div class="card w-[250px] bg-red-50 shadow-xl ml-2 mt-6">
       <figure>
         <img
           src="@/assets/images/Foto/Foto 11.png"
