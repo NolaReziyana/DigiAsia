@@ -2,6 +2,7 @@
 import CardBuild from "@/components/CardBuild.vue";
 import CardList from "@/components/CardList.vue";
 import DescriptionSection from "@/components/DescriptionSection.vue";
+import LicensesSection from "@/components/LicensesSection.vue";
 import NavbarSection from "@/components/NavbarSection.vue";
 </script>
 
@@ -9,14 +10,10 @@ import NavbarSection from "@/components/NavbarSection.vue";
   <main>
     <div class="flex flex-col">
       <NavbarSection />
-      <img
-        src="@/assets/images/gambar.png"
-        alt="image"
-        class="w-full h-200px"
-      />
       <DescriptionSection />
       <CardBuild />
       <CardList />
+      <LicensesSection />
     </div>
   </main>
 </template>

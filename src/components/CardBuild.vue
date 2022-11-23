@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="flex flex-row mt-10 ml-10 mr-10">
-      <div class="card w-[300px] bg-red-100 shadow-xl">
+      <div class="card w-[300px] bg-red-50 shadow-xl">
         <div class="card-body">
           <img
             src="@/assets/images/Asset Icon-1. Digital Wallet.png "
@@ -46,7 +46,7 @@
         </div>
       </div>
       <div class="flex flex-col ml-4">
-        <div class="card w-[500px] relative h-full bg-red-100 shadow-xl">
+        <div class="card w-[500px] relative h-full bg-red-50 shadow-xl">
           <div class="card-body">
             <div class="flex flex-1 flex-row justify-center">
               <div class="flex w-[200px]">
@@ -85,7 +85,7 @@
             </div>
           </div>
         </div>
-        <div class="card w-[500px] relative h-full bg-red-100 mt-4 shadow-xl">
+        <div class="card w-[500px] relative h-full bg-red-50 mt-4 shadow-xl">
           <div class="card-body">
             <div class="flex flex-1 flex-row justify-center">
               <div class="flex w-[200px]">
@@ -125,7 +125,7 @@
     </div>
     <div class="flex flex-row mt-10 ml-10 mr-10">
       <div class="flex flex-col">
-        <div class="card w-[500px] relative h-full bg-red-100 shadow-xl">
+        <div class="card w-[500px] relative h-full bg-red-50 shadow-xl">
           <div class="card-body">
             <div class="flex flex-1 flex-row justify-center">
               <div class="flex w-[200px]">
@@ -162,7 +162,7 @@
             </div>
           </div>
         </div>
-        <div class="card w-[500px] relative h-full bg-red-100 mt-4 shadow-xl">
+        <div class="card w-[500px] relative h-full bg-red-50 mt-4 shadow-xl">
           <div class="card-body">
             <div class="flex flex-1 flex-row justify-center">
               <div class="flex w-[200px]">
@@ -200,7 +200,7 @@
           </div>
         </div>
       </div>
-      <div class="card w-[300px] bg-red-100 shadow-xl ml-4">
+      <div class="card w-[300px] bg-red-50 shadow-xl ml-4">
         <div class="card-body">
           <img
             src="@/assets/images/Asset Icon_6. Icon B2B Loan.png "
@@ -231,7 +231,7 @@
       </div>
     </div>
     <div class="flex flex-row mt-10 ml-10 mr-10">
-      <div class="card w-[300px] bg-red-100 shadow-xl">
+      <div class="card w-[300px] bg-red-50 shadow-xl">
         <div class="card-body">
           <img
             src="@/assets/images/Asset Icon_7. Icon Gold Saving.png "
@@ -260,7 +260,7 @@
         </div>
       </div>
       <div class="flex flex-col ml-4">
-        <div class="card w-[500px] relative h-full bg-red-100 shadow-xl">
+        <div class="card w-[500px] relative h-full bg-red-50 shadow-xl">
           <div class="card-body">
             <div class="flex flex-1 flex-row justify-center">
               <div class="flex w-[200px]">
@@ -297,7 +297,7 @@
             </div>
           </div>
         </div>
-        <div class="card w-[500px] relative h-full bg-red-100 mt-4 shadow-xl">
+        <div class="card w-[500px] relative h-full bg-red-50 mt-4 shadow-xl">
           <div class="card-body">
             <div class="flex flex-1 flex-row justify-center">
               <div class="flex w-[200px]">
@@ -337,7 +337,7 @@
     </div>
     <div class="flex flex-row mt-10 ml-10 mr-10">
       <div class="flex flex-col">
-        <div class="card w-[500px] relative h-full bg-red-100 shadow-xl">
+        <div class="card w-[500px] relative h-full bg-red-50 shadow-xl">
           <div class="card-body">
             <div class="flex flex-1 flex-row justify-center">
               <div class="flex w-[200px]">
@@ -373,7 +373,7 @@
             </div>
           </div>
         </div>
-        <div class="card w-[500px] relative h-full bg-red-100 mt-4 shadow-xl">
+        <div class="card w-[500px] relative h-full bg-red-50 mt-4 shadow-xl">
           <div class="card-body">
             <div class="flex flex-1 flex-row justify-center">
               <div class="flex w-[200px]">
@@ -409,7 +409,7 @@
           </div>
         </div>
       </div>
-      <div class="card w-[300px] bg-red-100 shadow-xl ml-4">
+      <div class="card w-[300px] bg-red-50 shadow-xl ml-4">
         <div class="card-body">
           <img
             src="@/assets/images/Asset Icon_12. Icon Cash Out.png "

@@ -9,7 +9,7 @@
         height="30"
       />
     </div>
-    <div class="flex-1">
+    <div class="flex flex-1">
       <ul class="menu menu-horizontal p-0">
         <li tabindex="0">
           <a>
@@ -42,4 +42,5 @@
       </ul>
     </div>
   </div>
+  <img src="@/assets/images/gambar.png" alt="image" class="w-full h-200px" />
 </template>
