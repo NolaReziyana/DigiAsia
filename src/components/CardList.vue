@@ -44,9 +44,6 @@
       />
     </div>
   </div>
-  <!-- <div id="cardlists"> -->
-  <!-- <ul> -->
-  <!-- <li v-for="list in lists"> -->
   <div class="flex-1 grid grid-cols-3 ml-8 mr-10 mt-10">
     <div class="card w-[250px] bg-red-50 shadow-xl ml-2 mt-6">
       <figure>
@@ -355,7 +352,33 @@
       </div>
     </div>
   </div>
-  <!-- </li>
-    </ul>
+  <!-- <div id="cardlists" class="flex-1 grid grid-cols-3 ml-8 mr-10 mt-10">
+    <div v-for="(list, index) in lists" class="card w-[250px] bg-red-50 shadow-xl ml-2 mt-6">
+      <figure>
+        <img
+          src={{list.image}}
+          alt="image"
+          class="rounded-xl"
+        />
+      </figure>
+      <div class="card-body items-start text-start">
+        <h2 class="card-title text-xl font-bold text-rose-900 mt-5">
+          {{list.title}}
+        </h2>
+        <p class="mt-2">
+         {{list.description}}
+        </p>
+        <div class="card-actions justify-start mt-4">
+          <h2 class="text-l font-semibold text-rose-900">View Journey</h2>
+          <img
+            src="@/assets/images/right-arrow.png "
+            alt="image"
+            width="20px"
+            height="20px"
+            class="mt-1"
+          />
+        </div>
+      </div>
+    </div>
   </div> -->
 </template>

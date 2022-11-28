@@ -1,3 +1,18 @@
+<!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+	var licenses = new Vue({
+        el: '#licenses',
+        data: {
+			lists: [
+				{image: '@/assets/images/Lisensi KasPro.png'},
+				{image: '@/assets/images/Lisensi KreditPro.png'},
+				{image: '@/assets/images/Lisensi RemitPro.png'},
+				{image: '@/assets/images/Lisensi DigiBos.png'},
+			]
+		}
+	})
+</script> -->
+
 <template>
   <div class="flex flex-row mt-10">
     <div class="flex justify-start">
@@ -60,18 +75,17 @@
       </figure>
     </div>
   </div>
+  <!-- <div id="licenses">
+    <div class="flex flex-row mt-10 ml-7 mr-10 mb-10"> 
+      <div v-for="(list,index) in lists" class="card h-[100px] w-[200px] bg-base-100 shadow-xl ml-3">
+          <figure class="px-5 pt-5 mb-2">
+            <img
+              src="{{list.image}}"
+              alt="image"
+              class="rounded-xl"
+            />
+          </figure>
+      </div>
+    </div>  
+  </div> -->
 </template>
-
-<!-- <script lang="ts">
-	export default {
-		name: 'Licenses',
-		data: () => ({
-			lists: [
-				{image: '@/assets/images/Lisensi KasPro.png'},
-				{image: '@/assets/images/Lisensi KreditPro.png'},
-				{image: '@/assets/images/Lisensi RemitPro.png'},
-				{image: '@/assets/images/Lisensi DigiBos.png'},
-			],
-		}),
-	};
-</script> -->
